@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>The portfolio component</h1>
+    <h1>this is portfolio component</h1>
   </div>
 </template>
